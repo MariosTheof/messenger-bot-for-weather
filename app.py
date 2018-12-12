@@ -12,9 +12,9 @@ app = Flask(__name__)
 # This needs to be filled with the Page Access Token that will be provided
 # by the Facebook App that will be created.
 # PAT = Page Access Token (for facebook)
-PAT='EAACzPZAstSV0BAFiILURPFTFDfWKdmwgKPUfQM81EAQZBH47brlOuZCTWTCZBSitvVOTQTqGbALuEPsBKZApsLOwiEcSe9dY2sCpTqDZCIJidFSambbC9egJ5wG8qFGnK8ZAne35pnaMiMZApfqxJc75dqz6QeDZA13mmyNcM494kQwZDZD'
+PAT=''#add your own PAT
 #weather api key
-api_key = 'e548b4a25364c8e4b5ba829dac160f82'
+api_key = ''# add your own weather API Key
 
 #bot from pymessenger
 bot = Bot(PAT)
